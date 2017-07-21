@@ -1,0 +1,6 @@
+name: RecipeGuiDisabler
+version: ${project.version}
+main: club.without.dereku.recipeguidisabler.RecipeGuiDisabler
+authors: [Dereku]
+description: Disabling functional of recipe book
+depend: [ProtocolLib]
